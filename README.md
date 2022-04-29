@@ -47,6 +47,16 @@
 ![image](https://user-images.githubusercontent.com/56391887/165876556-ede80038-b8e0-4595-a484-13fb24784ca8.png)
 ![image](https://user-images.githubusercontent.com/56391887/165876630-b6f936e5-94db-4101-add0-e26e1fd446a6.png)
 
+# Рассылка писем, содержащих файл
+![image](https://user-images.githubusercontent.com/56391887/165878562-1fe8ea93-195c-498b-838e-c6d2e7c9b22b.png)
+![image](https://user-images.githubusercontent.com/56391887/165878639-d98333eb-8846-4894-8ba5-7ace045459ce.png)
+![image](https://user-images.githubusercontent.com/56391887/165878660-be13549a-b2e9-4323-b200-ae566c7c0470.png)
+![image](https://user-images.githubusercontent.com/56391887/165878667-d20ca726-a731-482e-a840-2ba57bfde497.png)
+# Результаты открытия документа
+![image](https://user-images.githubusercontent.com/56391887/165879024-33b3f392-7c8a-4968-aa1c-2966b38ddd0c.png)
+![image](https://user-images.githubusercontent.com/56391887/165879065-802f5441-8396-4ca4-8f54-554b79a86144.png)
+![image](https://user-images.githubusercontent.com/56391887/165879105-0efb60db-9138-46cc-8b89-944d10709152.png)
+![image](https://user-images.githubusercontent.com/56391887/165879117-e60afbed-1e37-4d0e-88b8-5eec3624d4f7.png)
 
 
 
