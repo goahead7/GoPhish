@@ -58,6 +58,17 @@
 ![image](https://user-images.githubusercontent.com/56391887/165879105-0efb60db-9138-46cc-8b89-944d10709152.png)
 ![image](https://user-images.githubusercontent.com/56391887/165879117-e60afbed-1e37-4d0e-88b8-5eec3624d4f7.png)
 
+# Рассылка писем, содержащих файл, используя Gophish
+![image](https://user-images.githubusercontent.com/56391887/166396837-00e8f931-f362-4798-820b-29b4d049af3c.png)
+![image](https://user-images.githubusercontent.com/56391887/166396886-2c9ec9c2-5aae-4269-a254-f863deeec857.png)
+![image](https://user-images.githubusercontent.com/56391887/166396911-3c8af1ac-116f-444f-96db-972646dec553.png)
+![image](https://user-images.githubusercontent.com/56391887/166396929-cc4adf6d-99f5-45e3-bc43-f62f3aed2f38.png)
+![image](https://user-images.githubusercontent.com/56391887/166396955-b4b917c3-757b-4b61-9bcc-6967b3b4762e.png)
+![image](https://user-images.githubusercontent.com/56391887/166396977-2e2a9be9-af72-4c8d-a075-1790d3a305b4.png)
+![image](https://user-images.githubusercontent.com/56391887/166396998-4c93dd21-2f49-4b65-a858-8ec2f1b58b4c.png)
+![image](https://user-images.githubusercontent.com/56391887/166397028-f92ea778-4cd6-4c7b-86b7-493574c012d8.png)
+
+
 
 
 
