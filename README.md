@@ -41,6 +41,8 @@
 ![image](https://user-images.githubusercontent.com/56391887/165876070-077fa1f0-83cc-497a-90db-342c3ef5a21e.png)
 
 # Результаты компании
+![image](https://user-images.githubusercontent.com/56391887/166400351-035d4831-1b87-4298-8ae3-0c64438c1604.png)
+![image](https://user-images.githubusercontent.com/56391887/166400356-e0842192-b53f-4cab-bc73-1e650726b04f.png)
 
 ![image](https://user-images.githubusercontent.com/56391887/165876463-69f137ec-a102-4dc9-85f2-07bba70da449.png)
 ![image](https://user-images.githubusercontent.com/56391887/165876488-d992f7c5-12aa-44b9-adcc-501e0bc1fb9c.png)
